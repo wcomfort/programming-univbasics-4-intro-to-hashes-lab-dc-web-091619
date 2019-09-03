@@ -39,4 +39,5 @@ if hash[key]
 else 
   updated_hash[key] = 1 
 end
+return updated_hash
 end
